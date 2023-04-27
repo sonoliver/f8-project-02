@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>standardWheelDirection</key>
+	<true/>
+	<key>bounceAnimation</key>
+	<false/>
+	<key>disable</key>
+	<false/>
+	<key>pulseAlgorithm</key>
+	<true/>
+	<key>pulseScale</key>
+	<integer>3</integer>
+	<key>pulseNormalize</key>
+	<integer>1</integer>
+	<key>accelerationDefault</key>
+	<false/>
+	<key>accelerationDelta</key>
+	<integer>70</integer>
+	<key>accelerationMax</key>
+	<integer>7</integer>
+	<key>stepSize</key>
+	<integer>90</integer>
+	<key>animationTime</key>
+	<integer>360</integer>
+	<key>reverseY</key>
+	<true/>
+	<key>keyboardSupport</key>
+	<true/>
+	<key>launchOnLogin</key>
+	<true/>
+	<key>middleButtonSupport</key>
+	<true/>
+	<key>horizontalSmoothing</key>
+	<true/>
+	<key>showMenuBarIcon</key>
+	<true/>
+</dict>
+</plist>
